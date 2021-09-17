@@ -10,4 +10,7 @@ The goal of this project for our potential customer is to visualize fan feedback
 
 **src.org.bubblechat.GraphGenerator** - Converts data to a format that can easily be inserted into the Front-End (bubblechat.html) you can find this at nba.txt
 
+**src.org.bubblechat.AIExample** - is a proof of concept where fan comments are processed by StanfordCoreNLP. CoreNLP enables users to derive linguistic annotations for text, including token and sentence boundaries, parts of speech, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations.
+
 The rest of the BubbleChat project can be found at https://github.com/TylerMJohnson/WGU_BubbleChat
+
